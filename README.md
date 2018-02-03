@@ -1,6 +1,27 @@
 # road-to-master-ngrx-store
 A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [road-to-master-ngrx-store](#road-to-master-ngrx-store)
+	- [What is state mean?](#what-is-state-mean)
+	- [Why the need for a UI state management?](#why-the-need-for-a-ui-state-management)
+	- [Ngrx/Store](#ngrxstore)
+	- [Why choose Ngrx/Store as your _"flux capacitor"_](#why-choose-ngrxstore-as-your-flux-capacitor)
+	- [Building blocks of Ngrx/Store](#building-blocks-of-ngrxstore)
+		- [Reducer and its application state](#reducer-and-its-application-state)
+			- [meta-programming on reducers](#meta-programming-on-reducers)
+		- [Ways to manage the application's state](#ways-to-manage-the-applications-state)
+		- [Handling side-effects caused by change of state](#handling-side-effects-caused-by-change-of-state)
+		- [Actions](#actions)
+		- [Gluing and registering actions to reducers](#gluing-and-registering-actions-to-reducers)
+		- [Selectors](#selectors)
+	- [Dev Tools](#dev-tools)
+	- [Recommended tutorials](#recommended-tutorials)
+	- [Supporting resources](#supporting-resources)
+
+<!-- /TOC -->
+
 ---
 
 All information is currently base on [Ngrx/Store v4](https://github.com/ngrx/platform)
