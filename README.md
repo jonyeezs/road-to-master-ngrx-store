@@ -1,10 +1,10 @@
 # road-to-master-ngrx-store
-A curated guided hyperlinks to learn all there is to know of Ngrx/Store
+A curated list of guides and tutorials to learn all there is to know about Ngrx/Store.
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [road-to-master-ngrx-store](#road-to-master-ngrx-store)
-	- [What is state mean?](#what-is-state-mean)
+	- [What does state mean?](#what-does-state-mean)
 	- [Why the need for a UI state management?](#why-the-need-for-a-ui-state-management)
 	- [Ngrx/Store](#ngrxstore)
 	- [Why choose Ngrx/Store as your _"flux capacitor"_](#why-choose-ngrxstore-as-your-flux-capacitor)
@@ -12,32 +12,32 @@ A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 		- [Reducer and its application state](#reducer-and-its-application-state)
 			- [meta-programming on reducers](#meta-programming-on-reducers)
 		- [Ways to manage the application's state](#ways-to-manage-the-applications-state)
-		- [Handling side-effects caused by change of state](#handling-side-effects-caused-by-change-of-state)
+		- [Handling side-effects caused by changes of state](#handling-side-effects-caused-by-changes-of-state)
 		- [Actions](#actions)
 		- [Gluing and registering actions to reducers](#gluing-and-registering-actions-to-reducers)
 		- [Selectors](#selectors)
 	- [Dev Tools](#dev-tools)
 	- [Recommended tutorials](#recommended-tutorials)
-	- [Supporting resources](#supporting-resources)
+	- [Supportive resources](#supportive-resources)
 
 <!-- /TOC -->
 
 ---
 
-All information is currently base on [Ngrx/Store v4](https://github.com/ngrx/platform)
+All information is currently based on [Ngrx/Store v4](https://github.com/ngrx/platform)
 
-The links that are tagged would lead you to the exact snippet of the linked article that is relevant to the topic. Some post may not have anchors but the whole article should help you in your journey as well. Feel free to skip to the relevant topic or read all of it. The time indicators will be for the prescribed texts only.
+The links that are tagged lead you to the exact snippet that is relevant to the respective topic. Some posts may not have anchor links but the whole article should help you proceed in your journey. Feel free to skip to the relevant topic or read all of it. The time indicators will be for the given texts only.
 
 Here we go!
 
-## What is state mean?
+## What does state mean?
 * [Understanding UI state][state-management] <sup>(5mins)</sup>
 * [What is usually in a state][defining-state] <sup>(23sec)</sup>
 
 ## Why the need for a UI state management?
 * [The motivation][redux-motivation] <sup>(1min)</sup>
 * [A video on the history of how the solution was born - Flux][flux] <sup>(44:35mins)</sup>
-* [What is the most frequent problem that it][problem-it-solves]  <sup>(2mins)
+* [What is the most frequent problem that it solves][problem-it-solves]  <sup>(2mins)
 * [How does it relate to state in Angular SPA?][persisting-state-in-angular] <sup>(2mins)</sup>
 
 ## Ngrx/Store
@@ -64,7 +64,7 @@ Here we go!
 * [Using scan Rxjs operator to automatically maintain state updates][scan-on-dispatch] <sup>(2mins)</sup>
 * [Using ngrx/entity to reduce boilerplate in creating entity-type application state][ngrx-entity] <sup>(3mins)</sup>
 
-### Handling side-effects caused by change of state
+### Handling side-effects caused by changes of state
 * [SO answers the need for ngrx/effects][so-effects] <sup>(9mins)</sup>
 * [Pro-tips on when and how to use effects][pro-effects] <sup>(6mins)</sup>
 * [Controlling lifecycle of effect][on-run] <sup>(40secs)<sup>
@@ -121,7 +121,7 @@ Here we go!
 
 ---
 
-## Supporting resources
+## Supportive resources
 
 * [Style guide](https://github.com/orizens/ngrx-styleguide)
 * [Introduction video by ngrx team](https://youtu.be/cyaAhXHhxgk)
@@ -131,6 +131,4 @@ Here we go!
 * [Example of a minimal setup](https://github.com/ngrx/platform/blob/master/docs/store/setup.md)
 * [Splitting state by features](http://ngxsolutions.azurewebsites.net/understanding-features-in-ngrx-4/)
 * [A developers learnings on ngrx](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661?gi=fbb7e4910efa)
-* [What's feature module](https://blog.realworldfullstack.io/real-world-angular-part-7-lazy-coding-load-splitting-4552f5f54ef7#e15e)
-
-
+* [What's a feature module](https://blog.realworldfullstack.io/real-world-angular-part-7-lazy-coding-load-splitting-4552f5f54ef7#e15e)
