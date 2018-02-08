@@ -1,10 +1,9 @@
 # Road To Master Ngrx/Store
 A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 
-**Content**
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [road-to-master-ngrx-store](#road-to-master-ngrx-store)
+- **Content**
 	- [What does state mean?](#what-does-state-mean)
 	- [Why the need for a UI state management?](#why-the-need-for-a-ui-state-management)
 	- [Ngrx/Store](#ngrxstore)
