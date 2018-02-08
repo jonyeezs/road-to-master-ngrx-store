@@ -1,6 +1,7 @@
 # road-to-master-ngrx-store
 A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 
+**Content**
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [road-to-master-ngrx-store](#road-to-master-ngrx-store)
@@ -30,7 +31,7 @@ The links that are tagged would lead you to the exact snippet of the linked arti
 
 Here we go!
 
-## What is state mean?
+## What does state mean?
 * [Understanding UI state][state-management] <sup>(5mins)</sup>
 * [What is usually in a state][defining-state] <sup>(23sec)</sup>
 
