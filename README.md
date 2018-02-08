@@ -1,4 +1,4 @@
-# road-to-master-ngrx-store
+# Road To Master Ngrx/Store
 A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 
 **Content**
@@ -84,6 +84,11 @@ Here we go!
 ## Dev Tools
 
 * [store devtools browser extension][store-devtools] - allows you to monitor events and chart the state. To have it working with ng-cli, see [here][dev-cli]
+
+## Helper Libraries
+
+* [NGRX-Actions](https://medium.com/@amcdnl/reducing-the-boilerplate-with-ngrx-actions-8de42a190aac) - Using decorators and class symbols to reduce the boiler-plate
+* [Angular-ngrx-data](https://github.com/johnpapa/angular-ngrx-data) - Manages entity in a clever black-box
 
 ## Recommended tutorials
 
