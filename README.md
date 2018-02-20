@@ -91,7 +91,7 @@ Here we go!
 
 ## Recommended tutorials
 
-* [Free step-by-step tutorial by Todd Motto](https://ultimateangular.com/ngrx-store-effects)
+* [Paid step-by-step tutorial by Todd Motto](https://ultimateangular.com/ngrx-store-effects)
 * [Tour of Heroes tutorial with Ngrx/store](https://github.com/LMFinney/toh-ngrx4)
 
 <!--link references-->
