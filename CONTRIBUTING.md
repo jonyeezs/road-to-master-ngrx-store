@@ -6,6 +6,22 @@ This repository is open for any improvements on the topics discussed about anyth
 
 Reorganizing of information is welcomed as well, backed by well thought of study flow.
 
+## What should be in your commit for a link
+
+1. Add a point under the appropriate subject matter
+1. Link's text must be a summary of what the link is about
+1. Use reference-style links
+1. If the subject matter is a snippet of the actual article, please use anchor reference in the URL if available.
+1. reference links are to be place underneath `<!--link references-->` as new entry will be at the bottom.
+1. A reading time estimate should be included as superscript and in brackets.
+  * You can use this website to calculate the text: http://niram.org/read/
+1. Update the content if new heading is included
+  
+Example:
+```md
+* [What is usually in a state][defining-state] <sup>(23sec)</sup>
+```
+
 ## Pull Request Process
 
 1. Create a pull request using the pull request template.
