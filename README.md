@@ -88,6 +88,7 @@ Here we go!
 
 * [NGRX-Actions](https://medium.com/@amcdnl/reducing-the-boilerplate-with-ngrx-actions-8de42a190aac) - Using decorators and class symbols to reduce the boiler-plate
 * [Angular-ngrx-data](https://github.com/johnpapa/angular-ngrx-data) - Manages entity in a clever black-box
+* [Nrwl Extensions](https://nrwl.io/nx) - Developer toolkit to assist in Ng development, which comes with [Ngrx CLI generators](https://nrwl.io/nx/guide-setting-up-ngrx)
 
 ## Recommended tutorials
 
