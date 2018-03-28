@@ -86,9 +86,11 @@ Here we go!
 
 ## Helper Libraries
 
-* [NGRX-Actions](https://medium.com/@amcdnl/reducing-the-boilerplate-with-ngrx-actions-8de42a190aac) - Using decorators and class symbols to reduce the boiler-plate
+* ~~NGRX-Actions - Using decorators and class symbols to reduce the boiler-plate~~ (_The author is diverting his resources to a new state management library.)
 * [Angular-ngrx-data](https://github.com/johnpapa/angular-ngrx-data) - Manages entity in a clever black-box
 * [Nrwl Extensions](https://nrwl.io/nx) - Developer toolkit to assist in Ng development, which comes with [Ngrx CLI generators](https://nrwl.io/nx/guide-setting-up-ngrx)
+
+[ngrxaction]: https://medium.com/@amcdnl/reducing-the-boilerplate-with-ngrx-actions-8de42a190aac
 
 ## Recommended tutorials
 
@@ -138,5 +140,3 @@ Here we go!
 * [Splitting state by features](http://ngxsolutions.azurewebsites.net/understanding-features-in-ngrx-4/)
 * [A developers learnings on ngrx](https://hackernoon.com/what-i-have-learned-using-ngrx-redux-with-angular-2-20a748149661?gi=fbb7e4910efa)
 * [What's feature module](https://blog.realworldfullstack.io/real-world-angular-part-7-lazy-coding-load-splitting-4552f5f54ef7#e15e)
-
-
