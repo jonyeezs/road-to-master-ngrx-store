@@ -89,6 +89,7 @@ Here we go!
 * ~~NGRX-Actions - Using decorators and class symbols to reduce the boiler-plate~~ (_The author is diverting his resources to a new state management library. see [Alternatives](#alternatives)_)
 * [Angular-ngrx-data](https://github.com/johnpapa/angular-ngrx-data) - Manages entity in a clever black-box
 * [Nrwl Extensions](https://nrwl.io/nx) - Developer toolkit to assist in Ng development, which comes with [Ngrx CLI generators](https://nrwl.io/nx/guide-setting-up-ngrx)
+* [Ngrx Schematics](https://github.com/ngrx/platform/tree/master/docs/schematics) - Scaffold the cookie-cutter code
 
 [ngrxaction]: https://medium.com/@amcdnl/reducing-the-boilerplate-with-ngrx-actions-8de42a190aac
 
