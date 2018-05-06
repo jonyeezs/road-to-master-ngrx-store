@@ -41,7 +41,7 @@ Here we go!
 * [What is the most frequent problem that it][problem-it-solves]  <sup>(2mins)
 * [How does it relate to state in Angular SPA?][persisting-state-in-angular] <sup>(2mins)</sup>
 
-## Ngrx/Store
+## Concepts to understand
 * [Principles borrowed from Redux][principles] <sup>(3mins)</sup>
 * [Contains building blocks to implement Flux][readme] <sup>(26secs)</sup>
 * [Prerequisite: must know reactive programming RxJS][rxjs] <sup>(25mins)</sup>
