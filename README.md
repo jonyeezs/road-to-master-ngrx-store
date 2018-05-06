@@ -50,6 +50,8 @@ Here we go!
 * [A video on some thoughts why this suits angular][why-ngrx-for-angular] <sup>(65secs)</sup>
 * [Well opinionated comparison on redux vs ngrx/store][redux-vs-ngrx] <sup>(3mins)</sup>
 
+Note: There are alternative solutions to ngrx. See the [#Alternatives section](#alternatives)
+
 ## Building blocks of Ngrx/Store
 
 ### Reducer and its application state
@@ -145,3 +147,4 @@ Here we go!
 ## Alternatives
 
 * [NGXS](https://ngxs.gitbooks.io/ngxs/) - State management pattern + library made with Angular patterns in mind.
+* [ngx-model](https://github.com/tomastrajan/ngx-model) - Manage state via a single (service-like) API (see [here for its motivation](https://blog.angularindepth.com/model-pattern-for-angular-state-management-6cb4f0bfed87#1905)).
