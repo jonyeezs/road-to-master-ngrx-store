@@ -6,7 +6,7 @@ A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 - **Content**
 	- [What does state mean?](#what-does-state-mean)
 	- [Why the need for a UI state management?](#why-the-need-for-a-ui-state-management)
-	- [Ngrx/Store](#ngrxstore)
+	- [Concepts to understand](#concepts-to-understand)
 	- [Why choose Ngrx/Store as your _"flux capacitor"_](#why-choose-ngrxstore-as-your-flux-capacitor)
 	- [Building blocks of Ngrx/Store](#building-blocks-of-ngrxstore)
 		- [Reducer and its application state](#reducer-and-its-application-state)
