@@ -19,6 +19,7 @@ A curated guided hyperlinks to learn all there is to know of Ngrx/Store
 	- [Dev Tools](#dev-tools)
 	- [Recommended tutorials](#recommended-tutorials)
 	- [Supporting resources](#supporting-resources)
+	- [Alternatives](#alternatives)
 
 <!-- /TOC -->
 
