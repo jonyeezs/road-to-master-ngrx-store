@@ -150,3 +150,4 @@ Note: There are alternative solutions to ngrx. See the [#Alternatives section](#
 * [NGXS](https://ngxs.gitbooks.io/ngxs/) - State management pattern + library made with Angular patterns in mind.
 * [ngx-model](https://github.com/tomastrajan/ngx-model) - Manage state via a single (service-like) API (see [here for its motivation](https://blog.angularindepth.com/model-pattern-for-angular-state-management-6cb4f0bfed87#1905)).
 * [angular-redux/store](https://github.com/angular-redux/store) - The cross-over of react-redux. If you have bought into the [Redux](https://redux.js.org/) ecosystem, this is compatible with most existing redux midleware/tools that are not react-specific (see [here for a comparison discussion](https://www.reddit.com/r/Angular2/comments/67coeo/ngrxstore_vs_angularreduxstore/)).
+* [Akita](https://netbasal.gitbook.io/akita/) - If you're familiar with CQRS, this may be a good fit for you.
